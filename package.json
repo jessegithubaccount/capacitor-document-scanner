@@ -1,5 +1,5 @@
 {
-  "name": "@southdevs/capacitor-document-scanner",
+  "name": "@jessegithubaccount/capacitor-document-scanner",
   "version": "7.3.1",
   "type":"module",
   "description": "A Capacitor plugin that lets you scan documents using Android and iOS",
@@ -13,7 +13,7 @@
     "dist/",
     "ios/Plugin/",
     "CapacitorDocumentScanner.podspec",
-    "SouthdevsCapacitorDocumentScanner.podspec"
+    "jessegithubaccountCapacitorDocumentScanner.podspec"
   ],
   "author": "David Marcus",
   "license": "MIT",
